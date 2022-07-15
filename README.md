@@ -1,3 +1,6 @@
+
+![alt text](https://github.com/rparappuram/rparappuram/blob/main/Software%20Banner.png)
+
 Hi There! :wave:
 
 My name is Ryan and I'm really passionate about programming. I'm a sophomore CS major at UT Austin, and I plan to graduate by the end of 2024.
