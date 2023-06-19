@@ -26,7 +26,7 @@ Click on any of the links below to get in contact with me. You can also call my 
 
 # Resume :page_with_curl:
 
-![alt text](https://github.com/rparappuram/rparappuram/blob/main/Ryan_Parappuram_resume-1.png)
+![alt text](https://github.com/rparappuram/rparappuram/blob/main/Resume-1.png)
 
 <!--
 **rparappuram/rparappuram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
