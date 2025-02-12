@@ -3,42 +3,31 @@
 
 Hi There! :wave:
 
-My name is Ryan and I'm really passionate about AI. I'm a Master's CS student at UT Austin graduating in May 2026.
+My name's Ryan! I’m a **backend and cloud engineer** who loves building **scalable systems, microservices, and cloud-native applications**. I’m a **Computer Science senior at UT Austin**, graduating in **May 2025**, with a **Business minor and a certificate in Applied Statistical Modeling**.  
 
+## 🚀 A Little About Me  
 
-# A Little About Me :boy:
+- 💻 **Backend & Cloud Enthusiast** – I focus on designing **secure, scalable infrastructure** using **Spring Boot, AWS, and PostgreSQL**.  
+- 🌍 **Silicon Valley Experience** – Interned at **Integral Development in Palo Alto**, where I was retained as a **part-time software engineer** while finishing my degree.  
+- 📊 **Building SaaS & Analytics Tools** – Currently working on [SnipplyLink](https://snipplylink.com), a **microservices-based URL shortener** with an **analytics dashboard and authentication system**.  
+- ☁️ **AWS & DevOps** – Deploying cloud-native applications using **EC2, API Gateway, RDS, and Docker**.  
 
-👋 Hi there! I’m Ryan Parappuram, a dedicated Computer Science student at UT Austin, currently enrolled in the integrated Master’s program. With a strong passion for AI/ML and a keen interest in the finance industry, I am continuously exploring the intersection of technology and financial markets.
+## 🔥 Experience  
 
-📚 Education:
+- **Software Engineer (Part-Time) @ Integral Development Corp.**  
+  - Built AI-driven risk management tools, predictive analytics, and microservices deployed to AWS.  
 
-	•	Master’s in Computer Science (Integrated Program), UT Austin, expected May 2026
-	•	Bachelor’s in Computer Science, UT Austin, expected May 2025
-	•	Minor in Business with a certificate in Applied Statistical Modeling
+- **Software Engineering Intern @ Nordstrom**  
+  - Developed a full-stack web app for tracking retail product data at scale.  
 
-💼 Professional Experience:
+## 🛠 Current Focus  
 
-	•	Artificial Intelligence Intern at Integral Development Corp.
-	•	Software Engineering Intern at Nordstrom
-
-🔍 Projects and Interests:
-
-	•	Developing a Python trading bot utilizing Alpaca API with a swing trading strategy
-	•	Backtesting trading strategies using Backtrader and yfinance
-	•	AI Assistants API project at Integral Development Corp., contributing over 10,000 lines of code in Java and Python
-
-📈 Current Focus:
-
-	•	Applying for internships for Summer 2025 with a focus on backend development, AI/ML, and financial trading
-	•	Preparing for certifications in AI/ML and cloud security
-
-💡 Fun Facts:
-
-	•	I’m training for a half marathon next year.
-	•	I enjoy reading about AI advancements and exploring new tech trends.
+- **Developing SaaS applications** with microservices architecture.  
+- **Expanding cloud engineering skills** with AWS and DevOps tools.  
+- **Exploring backend system optimization & high-scale distributed systems.**  
 
 # Get in Touch :call_me_hand:
-
+I’m always open to discussing **backend, cloud, and SaaS engineering roles**! Feel free to check out my work or reach out.  
 * Email: rparappuram@gmail.com
 * LinkedIn: https://www.linkedin.com/in/ryanparappuram/
 
